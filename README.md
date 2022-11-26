@@ -64,4 +64,4 @@
 
   [GitHub](https://github.com/inderjz)
 
-  [Email: inderjz)711@gmail.com](mailto:inderjz)711@gmail.com)
+  [Email: inderjz)0711@gmail.com](mailto:inderjz))
