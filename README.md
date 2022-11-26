@@ -68,3 +68,8 @@
 ## Demo Video
 
 https://drive.google.com/file/d/1P_Y1FIbZuanlMwIumVDbObnEBEgxlpZO/view?usp=sharing
+
+## Sample HTML
+
+<img width="1442" alt="Screenshot 2022-11-25 at 9 54 03 PM" src="https://user-images.githubusercontent.com/112728880/204074514-06af3128-d858-41ea-9986-201a43d60d83.png">
+
