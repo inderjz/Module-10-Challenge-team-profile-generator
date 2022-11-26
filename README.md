@@ -54,7 +54,7 @@
 
   ## [Tests](#table-of-contents)
 
-  To test this app run npm test to run the tests.
+  To test this app run 'npm test' in your command line.
 
   ## [Questions](#table-of-contents)
 
