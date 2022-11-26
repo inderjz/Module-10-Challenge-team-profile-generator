@@ -33,12 +33,7 @@
   ## [Usage](#table-of-contents)
 
   Run the command 'node index.js' in the terminal once the installation is complete. After answering to the questions, you should see a terminal record of your responses, a message that says "Check your HTML" will come back after all the responses are done. Then you can try to open your index.HTML file in the browser and you will see your results there.
-  
-  For more information on how to add screenshots for examples, visit the following website:
-  
-  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
-  
-  
+   
   ## [License](#table-of-contents)
 
   The application is covered under the following license:
@@ -64,4 +59,4 @@
 
   [GitHub](https://github.com/inderjz)
 
-  [Email: inderjz)0711@gmail.com](mailto:inderjz))
+[Email: inderjz0711@gmail.com](mailto:inderjz0711@gmail.com)
