@@ -27,6 +27,8 @@
   ## [Installation](#table-of-contents)
 
   First, please clone the git repo into your computer, and then you must downloads Node in order to utilize my project, and you can find instructions for doing so on the Full-Stack Blog. Additionally, you will need to install inquirer. To do so, enter the command 'npm i inquirer@8.2.4' in your terminal.
+  
+  <img width="557" alt="Screenshot 2022-11-25 at 9 31 26 PM" src="https://user-images.githubusercontent.com/112728880/204073805-1f450f1a-cf7b-452b-a2a7-d6bd65b432b5.png">
 
   ## [Usage](#table-of-contents)
 
