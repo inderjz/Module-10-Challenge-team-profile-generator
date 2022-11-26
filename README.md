@@ -56,7 +56,7 @@
 
   ## [Tests](#table-of-contents)
 
-  To test this app run 'npm test' in your command line.
+  Run npm test to run Jest for tests on constructors.
 
   ## [Questions](#table-of-contents)
 
