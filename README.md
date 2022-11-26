@@ -32,7 +32,7 @@
 
   ## [Usage](#table-of-contents)
 
-  Run the command 'node index.js' in the terminal once the installation is complete. After answering to the questions, you should see a terminal record of your responses, a message that says "Check out your HTML" will come back after all the responses are done. Then you can try to open your index.HTML file in the browser and you will see your results there.
+  Run the command 'node index.js' in the terminal once the installation is complete. After answering to the questions, for the manager choose what kind of employee do you need to add and then you should see a terminal record of your responses, a message that says "Check out your HTML" will come back after all the responses are done. Then you can try to open your index.HTML file in the browser and you will see your results there.
   
   <img width="566" alt="Screenshot 2022-11-25 at 9 36 35 PM" src="https://user-images.githubusercontent.com/112728880/204073945-8877672a-1a7d-46fa-873c-22fa7a2ae17f.png">
 
@@ -55,7 +55,7 @@
 
   ## [Tests](#table-of-contents)
 
-  Run npm test to run Jest for tests on constructors.
+  Run 'npm test' to run Jest for tests on constructors.
 
   ## [Questions](#table-of-contents)
 
@@ -64,3 +64,7 @@
   [GitHub](https://github.com/inderjz)
 
 [Email: inderjz0711@gmail.com](mailto:inderjz0711@gmail.com)
+
+## Demo Video
+
+
